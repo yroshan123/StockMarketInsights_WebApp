@@ -60,3 +60,10 @@ StockMarketInsights_WebApp/
     ├── config.py          # Paths & configuration (defaults for CSVs, cache, output)
     ├── sentiment.py       # SentimentEngine + sentiment computation utilities
     └── pipeline.py        # Feature building + LSTM training & prediction
+```
+---
+Roadmap / Possible Enhancements
+	•	Support for live data (via APIs like Yahoo Finance, etc.).
+	•	Additional technical indicators (RSI, MACD, Bollinger Bands, etc.).
+	•	Advanced model architectures (GRU, Transformers, ensembles).
+	•	Export of trained models and predictions to files.
