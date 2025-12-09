@@ -62,8 +62,8 @@ StockMarketInsights_WebApp/
     └── pipeline.py        # Feature building + LSTM training & prediction
 ```
 ---
-Roadmap / Possible Enhancements
-	•	Support for live data (via APIs like Yahoo Finance, etc.).
-	•	Additional technical indicators (RSI, MACD, Bollinger Bands, etc.).
-	•	Advanced model architectures (GRU, Transformers, ensembles).
-	•	Export of trained models and predictions to files.
+- 🧠 **Roadmap / Possible Enhancements**  
+  - Support for live data (via APIs like Yahoo Finance, etc.).  
+  - Additional technical indicators (RSI, MACD, Bollinger Bands, etc.).
+  - Advanced model architectures (GRU, Transformers, ensembles).
+  - Export of trained models and predictions to files.
